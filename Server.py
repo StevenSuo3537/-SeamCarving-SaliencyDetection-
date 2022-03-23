@@ -1,4 +1,6 @@
 # This Python file uses the following encoding: utf-8
+# 该文件是主程序
+
 from PyQt5 import QtWidgets
 from window import Ui_Window
 from PyQt5.QtWidgets import QFileDialog
