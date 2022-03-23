@@ -1,0 +1,2 @@
+# -SeamCarving-SaliencyDetection-
+这是一款图像智能缩放程序。基于Seamcarving技术，结合SaliencyDetection绘制EnergyMap，能够对像素差异化处理，实现根据图像区域重要程度来智能缩放。
