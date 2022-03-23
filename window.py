@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 该文件是ui文件
 
 # Form implementation generated from reading ui file 'window.ui'
 #
